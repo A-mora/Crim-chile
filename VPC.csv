@@ -1,0 +1,5 @@
+ Random Intercept models,Variance ,SE,CI 2.5%,CI 97.5%,VPC
+Null model,0.477,0.106,0.307,0.72,0.127
+Compositional effects,0.436,0.097,0.28,0.658,0.117
+Contextual effects,0.337,0.09,0.195,0.549,0.093
+Contextual effects w cross level interaction,0.339,0.088,0.2,0.546,0.093
