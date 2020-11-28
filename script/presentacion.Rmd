@@ -90,7 +90,7 @@ El efecto del encarcelamiento no es una experiencia uniforme; no existe un **ún
 
 ```{r out.width = '75%', echo = FALSE, fig.align="center"}
 
-knitr::include_graphics("https://github.com/A-mora/SOCHICRIM/blob/main/figures/prison%20effect.png?raw=true")
+knitr::include_graphics("https://raw.githubusercontent.com/A-mora/Crim-chile/main/figures/prison%20effect.png")
 
 ```
 
@@ -196,7 +196,7 @@ Recidivism can also be understood as a result of a **concatenations of  failures
 
 - Failure of **society** in general for not providing what individuals need.
 
-#### En Chile
+#### En Chile (Villagra, 2009; Aedo, 2010; Morales et al. 2012; Espinoza, Martines & Villagra, 2017)
 
 - **Reincidencia genérica**: Repetición de un delito de diversa especie del otro u otros que ya
 fueron objeto de juzgamiento.
@@ -205,7 +205,6 @@ fueron objeto de juzgamiento.
 
 - **Reincidencia específica**: Reincidencia en que el nuevo delito cometido es de la misma
 especie que el delito antes sancionado.
-
 
 ---
 ### Objetivo
@@ -310,7 +309,7 @@ layout: false
 
 --
 
--  Que se respeten los derechos humanos. Desempeño moral de las prisiones (Liebling and Arnold, 2004)
+-  Que se respeten los derechos humanos. Desempeño moral de las prisiones (Liebling and Arnold, 2004, Sanhueza & Perez, 2019)
 
 --
 
@@ -343,7 +342,9 @@ layout: false
 
 ---
 class: center, middle
-##Información de Contacto
+
+##Muchas Gracias!
+###Información de Contacto
 
 Dr. Ana Morales-Gomez <br> Research Fellow in Safer Communities <br> University of Edinburgh <br> <a href="https://twitter.com/A_moralesgomez"> <i class="fab fa-twitter"></i> @A_moralesgomez</a><br><a href="mailto:Ana.Morales@ed.ac.uk"> Ana.Morales@ed.ac.uk</a><br>
 
