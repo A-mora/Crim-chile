@@ -336,7 +336,9 @@ layout: false
 
 ---
 class: center, middle
-##Información de Contacto
+
+##Muchas Gracias!
+###Información de Contacto
 
 Dr. Ana Morales-Gomez <br> Research Fellow in Safer Communities <br> University of Edinburgh <br> <a href="https://twitter.com/A_moralesgomez"> <i class="fab fa-twitter"></i> @A_moralesgomez</a><br><a href="mailto:Ana.Morales@ed.ac.uk"> Ana.Morales@ed.ac.uk</a><br>
 
