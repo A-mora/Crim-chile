@@ -4,6 +4,7 @@ author: 'Dr. Ana Morales-Gomez <br> Research Fellow in Safer Communities <br> Un
 date: "2020/11/28 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    css: ["default-fonts", "default"]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -216,6 +217,11 @@ Analizar si es que existe un efecto agregado/adicional de la prisión en la rein
 - Cohorte de individuos que fueron puestos en libertad durante el 2005
 
 - Seguimiento por 5 años
+---
+###Reincidencia en Chile
+
+
+
 ---
 ### El efecto Prisión en Chile (1)
 #### ¿Cuánto varía el efecto prisión en Chile?
